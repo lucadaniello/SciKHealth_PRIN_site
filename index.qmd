@@ -19,7 +19,8 @@ page-layout: custom
 
 <p style="font-size: 1.1em; line-height: 1.6;">
 
-SciK-Health is a research project investigating the impact of scientific production on patient care in Italian Academic Health Science Centres.
+**SciK-Health** is a national research project funded through the PRIN 2022 programme.\
+It explores how scientific knowledge contributes to the quality and effectiveness of patient care, with a particular focus on Italy’s Academic Health Science Centres.
 
 </p>
 

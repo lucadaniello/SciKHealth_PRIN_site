@@ -6,18 +6,20 @@ website:
   title: "SciK-Health"
   navbar:
     left:
-      - text: Home
-        href: index.qmd
       - text: The Project
         href: theProject.qmd
       - text: Research Team
         href: team.qmd
       - text: Data
         href: data.qmd
-      - text: Outputs
-        href: outputs.qmd
-      - text: Contact
-        href: contact.qmd
+      - text: Scientific Products
+        menu:
+        - text: Project References
+          href: references.qmd
+        - text: Publications
+          href: publications.qmd
+        - text: Conferences
+          href: conferences.qmd
 format:
   html:
     theme: lux

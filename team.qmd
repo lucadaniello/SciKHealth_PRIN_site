@@ -19,7 +19,7 @@ format: html
 Full Professor in Statistics for Social Sciences\
 Department of Economics and Statistics\
 University of Naples Federico II\
-Scientific Responsible of University of Naples Federico II Research Unit 
+Scientific Responsible of University of Naples Federico II Research Unit
 
 ::: {style="margin-top: 0.8em; font-size: 1.2em;"}
 [![](www/email-icon.png){width="22px" style="margin-right:8px"}](mailto:massimo.aria@unina.it) [![](www/web-icon.png){width="22px" style="margin-right:8px"}](https://www.massimoaria.com) [![](www/linkedin-icon.png){width="22px"}](https://www.linkedin.com/in/massimoaria)
@@ -27,7 +27,9 @@ Scientific Responsible of University of Naples Federico II Research Unit
 ::::
 ::::::
 
-## Research unit: *University of Naples Federico II*
+## Research unit: *UNINA*
+
+#### *University of Naples Federico II*
 
 :::::: {style="display: flex; align-items: flex-start; gap: 1.5em; flex-wrap: wrap; margin-bottom: 2em;"}
 <!-- Left: Foto del membro -->
@@ -92,7 +94,6 @@ University of Naples Federico II
 ::::
 ::::::
 
-
 :::::: {style="display: flex; align-items: flex-start; gap: 1.5em; flex-wrap: wrap; margin-bottom: 2em;"}
 <!-- Left: Foto del membro -->
 
@@ -135,7 +136,9 @@ University of Naples Federico II
 ::::
 ::::::
 
-## Research unit: *University of Campania Luigi Vanvitelli*
+## Research unit: *UNICA*
+
+#### *University of Campania Luigi Vanvitelli*
 
 :::::: {style="display: flex; align-items: flex-start; gap: 1.5em; flex-wrap: wrap; margin-bottom: 2em;"}
 <!-- Left: Foto del membro -->
@@ -148,15 +151,55 @@ University of Naples Federico II
 
 :::: {style="flex: 1; min-width: 250px;"}
 **Corrado Cuccurullo**\
-Full professor of Corporate Governance and Valuation and Fair Value Accounting, Reporting and Valuation\
+Full professor in Corporate Governance and Valuation and Fair Value Accounting, Reporting and Valuation\
 Department of Economics\
 University of Campania Luigi Vanvitelli\
-Scientific Responsible of University of Campania Luigi Vanvitelli Research Unit 
-
+Scientific Responsible of University of Campania Luigi Vanvitelli Research Unit
 
 ::: {style="margin-top: 0.8em; font-size: 1.2em;"}
-[![](www/email-icon.png){width="22px" style="margin-right:8px"}](mailto:corrado.cuccurullo@unicampania.it) [![](www/web-icon.png){width="22px" style="margin-right:8px"}](https://scholar.google.it/citations?user=mfW3fRwAAAAJ&hl=it) [![](www/linkedin-icon.png){width="22px"}](https://it.linkedin.com/in/corrado-cuccurullo-2262384)
+[![](www/email-icon.png){width="22px" style="margin-right:8px"}](mailto:corrado.cuccurullo@unicampania.it) [![](www/web-icon.png){width="22px" style="margin-right:8px"}](https://www.economia.unicampania.it/dipartimento/docenti?MATRICOLA=059204) [![](www/linkedin-icon.png){width="22px"}](https://it.linkedin.com/in/corrado-cuccurullo-2262384)
 :::
 ::::
 ::::::
 
+:::::: {style="display: flex; align-items: flex-start; gap: 1.5em; flex-wrap: wrap; margin-bottom: 2em;"}
+<!-- Left: Foto del membro -->
+
+::: {style="flex: 0 0 150px;"}
+![](www/lombardo.png){width="150px" style="border-radius: 10px;"}
+:::
+
+<!-- Right: Dati + Contatti -->
+
+:::: {style="flex: 1; min-width: 250px;"}
+**Rosaria Lombardo**\
+Full professor in Statistics\
+Department of Economics\
+University of Campania Luigi Vanvitelli\
+
+::: {style="margin-top: 0.8em; font-size: 1.2em;"}
+[![](www/email-icon.png){width="22px" style="margin-right:8px"}](mailto:rosaria.lombardo@unicampania.it) [![](www/web-icon.png){width="22px" style="margin-right:8px"}](https://www.economia.unicampania.it/dipartimento/docenti?MATRICOLA=057444) [![](www/linkedin-icon.png){width="22px"}](https://it.linkedin.com/in/rosaria-lombardo-46671010)
+:::
+::::
+::::::
+
+:::::: {style="display: flex; align-items: flex-start; gap: 1.5em; flex-wrap: wrap; margin-bottom: 2em;"}
+<!-- Left: Foto del membro -->
+
+::: {style="flex: 0 0 150px;"}
+![](www/camminatiello.png){width="150px" style="border-radius: 10px;"}
+:::
+
+<!-- Right: Dati + Contatti -->
+
+:::: {style="flex: 1; min-width: 250px;"}
+**Ida Camminatiello**\
+Associate professor in Statistics\
+Department of Economics\
+University of Campania Luigi Vanvitelli\
+
+::: {style="margin-top: 0.8em; font-size: 1.2em;"}
+[![](www/email-icon.png){width="22px" style="margin-right:8px"}](mailto:ida.camminatiello@unicampania.it) [![](www/web-icon.png){width="22px" style="margin-right:8px"}](https://www.economia.unicampania.it/dipartimento/docenti?MATRICOLA=083077) [![](www/linkedin-icon.png){width="22px"}](https://it.linkedin.com/in/rosaria-lombardo-46671010)
+:::
+::::
+::::::
