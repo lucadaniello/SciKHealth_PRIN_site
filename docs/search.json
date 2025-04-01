@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "theProject.html",
+    "href": "theProject.html",
+    "title": "The Project",
+    "section": "",
+    "text": "Academic Health Science Centres (AHSCs) share the same triple strategic mission. First, they train healthcare professionals to be able to treat and reduce the burden of disease effectively using more valuable health technologies. Second, they experiment with innovative treatment methods, health technologies, new tools, and digital solutions that can make the EU health industry more pioneering, sustainable, and globally competitive. Third, they provide advanced high-quality health care through the development and adoption of groundbreaking and effective solutions that are increasingly people-centered and data-driven.\nBalancing the three components of the strategic mission is very complex and the side effects are well known, such as strategic ambiguity and organizational tensions. The interdependent relationships between universities and hospitals generate a spectrum of different organizational and governance configurations that tend to change under different national education and health models, specific policies, and budget constraints.\nA neglected issue is how the three strategic missions affect each other, except for a few cases that focus on the impact of the teaching function on patient. How research influences care is still uninvestigated. Today, disciplines such as bibliometrics and scientometrics make it possible to measure research outputs. The scientific production of AHSCs consists of various outputs, in addition to scientific publications. For example, in life sciences, clinical trials are research studies performed on people that are aimed at evaluating a medical, surgical, or behavioral intervention. Often a clinical trial is used to learn if a new treatment is more effective and/or has fewer harmful side effects than the standard treatment. Moreover, AHSCs other research outputs include patents, grants, and social impact (measured through altmetrics). All these scientific outputs today can be measured by scientometrics, but separately.\nOur contribution is threefold. First, we will build a database containing bibliometric and scientometric metadata of the scientific production of Italian public AHSCs from 2000 to the present. The longitudinal study will enable us to understand some abnormal trends. Second, after measuring research productivity, growth, impact, and novelty, we will construct a combined and weighted indicator of scientific production for each AHSC. Third, we will analyze how research affects patient care, through an econometric study. The dimensions of patient care will be patient outcomes (30-day mortality, hospital readmissions, waiting lists) patient mobility, and hospital case mix. In the third phase of our study we are interested in answering the following questions: (1) Does academic research performance in public AHSCs lead to better healthcare outcomes? (2) Is academic research performance in public AHSCs a driver for patients’ choice? (3) Is academic research performance a driver for AHSCs case-mix?"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sci K-Health",
+    "section": "",
+    "text": "This is the website of Sci K-Health.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]

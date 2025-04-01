@@ -1,13 +1,19 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "SciKHealth_PRIN_site"
+  title: "Sci K-Health"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: theProject.qmd
+        text: The Project
+      - href: researchGroup.qmd
+        text: Research Group
+      - href: scientificProducts.qmd
+        text: Scientific Products
 
 format:
   html:
