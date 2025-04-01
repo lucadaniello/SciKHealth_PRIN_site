@@ -1,9 +1,2 @@
 /* css styles */
-body {
-  word-wrap: break-word;
-  overflow-wrap: break-word;
-}
 
-p {
-  white-space: normal;
-}

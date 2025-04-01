@@ -3,23 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "Sci K-Health"
+  title: "SciK-Health"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: theProject.qmd
-        text: The Project
-      - href: researchGroup.qmd
-        text: Research Group
-      - href: scientificProducts.qmd
-        text: Scientific Products
-
+      - text: Home
+        href: index.qmd
+      - text: The Project
+        href: theProject.qmd
+      - text: Research Team
+        href: team.qmd
+      - text: Data
+        href: data.qmd
+      - text: Outputs
+        href: outputs.qmd
+      - text: Contact
+        href: contact.qmd
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: lux
     css: styles.css
     toc: true
 

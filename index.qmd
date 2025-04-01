@@ -1,11 +1,29 @@
 ---
-title: "Sci K-Health"
+title: ""
+format: html
+page-layout: custom
 ---
 
-This is the website of Sci K-Health.
+:::::: {.container style="margin-top: 3em;"}
+::::: {style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 2em;"}
+<!-- Left: logo -->
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {style="flex: 1; min-width: 200px;"}
+![](www/scik-health-logo.png){width="180px"}
+:::
 
-```{r}
-1 + 1
-```
+<!-- Right: title + description + button -->
+
+::: {style="flex: 3; min-width: 300px;"}
+## SciK-Health: *Scientific Knowledge in Health*
+
+<p style="font-size: 1.1em; line-height: 1.6;">
+
+SciK-Health is a research project investigating the impact of scientific production on patient care in Italian Academic Health Science Centres.
+
+</p>
+
+<a href="theProject.qmd" class="btn btn-primary" role="button">The Project</a>
+:::
+:::::
+::::::
