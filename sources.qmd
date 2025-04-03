@@ -15,7 +15,7 @@ Data were retrieved through dedicated APIs and processed using custom routines t
 
 ------------------------------------------------------------------------
 
-## OpenAlex
+## 📚 OpenAlex 
 
 OpenAlex serves as our primary bibliographic data source. It is an open, freely accessible platform that offers a wide-ranging collection of scientific publications, author metadata, institutional affiliations, and citation relationships.
 
@@ -62,7 +62,7 @@ This information was crucial for measuring the strategic contribution of interna
 
 ------------------------------------------------------------------------
 
-## Dimensions
+## 🧬 Dimensions
 
 To complement the bibliometric coverage offered by OpenAlex, the SciK-Health project also integrates data from **Dimensions**, a multidisciplinary platform that aggregates a broad range of research outputs and metadata.
 
@@ -84,7 +84,7 @@ the AHSCs analyzed.
 
 ------------------------------------------------------------------------
 
-## Altmetric
+## 🌍 Altmetric
 
 To capture the **social and digital impact** of scientific research, the SciK-Health project incorporates data from **Altmetric**, a platform that tracks and quantifies the online attention received by scholarly publications.
 
