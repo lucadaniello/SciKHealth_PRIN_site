@@ -1,5 +1,4 @@
 ---
-title: ""
 format: html
 page-layout: custom
 ---
@@ -15,12 +14,14 @@ page-layout: custom
 <!-- Right: title + description + button -->
 
 ::: {style="flex: 3; min-width: 300px;"}
-## SciK-Health: *Scientific Knowledge in Health*
+## SciK-Health
+
+### ***Scientific Knowledge in Health***
 
 <p style="font-size: 1.1em; line-height: 1.6;">
 
 **SciK-Health** is a national research project funded through the PRIN 2022 programme.\
-It explores how scientific knowledge contributes to the quality and effectiveness of patient care, with a particular focus on Italy’s Academic Health Science Centres.
+This research aims to explore how scientific knowledge contributes to the quality and effectiveness of patient care, with a particular focus on Italy’s Academic Health Science Centres.
 
 </p>
 

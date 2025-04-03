@@ -1,5 +1,4 @@
 ---
-title: "The Project"
 format: html
 ---
 
@@ -33,7 +32,26 @@ Disciplines such as **bibliometrics** and **scientometrics** have made it possib
 
 ------------------------------------------------------------------------
 
-### Our Contribution
+### AHSC in the Italian Context
+
+This research is focused on the Italian AHSCs, which represent a particularly diverse and dynamic field of investigation due to the heterogeneity of their missions, governance models, and institutional relationships. In particular, we studied 49 public centres distributed across both metropolitan areas and smaller cities. They differ significantly in terms of organizational structure, operational scope, and the formal ties between hospitals and universities.
+
+Over the past decades, Italian AHSCs have undergone significant institutional and regulatory transformations, shaped by reforms in the healthcare system (Legislative Decree 517/1999), in the university sector (Legislative Decree 240/2010), and by changes in regional health reimbursement policies.
+
+Based on their institutional configurations and the nature of their university–hospital integration, Italian AHSCs can be classified into three main categories:
+
+- **Fully integrated AHSCs**, historically managed by universities (*AOU SSN*): N = 9, covering approximately 18.37%  
+- **Affiliated AHSCs**, autonomous hospitals integrated with a School of Medicine (*AOU*): N = 17, around 34.69%  
+- **Research-focused AHSCs**, prioritizing research over teaching missions (*IRCCS*): N = 23, approximately 46.94%
+
+These institutions also vary in ownership (public, private, or non-profit), service profiles, and the availability of facilities such as emergency departments.
+
+While benchmarking studies—such as those conducted by the Interregional Performance Evaluation System (IRPES)—have focused primarily on healthcare delivery and performance, they have largely overlooked the systematic evaluation of research output and scientific impact.
+
+
+------------------------------------------------------------------------
+
+### Research Contribution
 
 The SciK-Health project proposes a three-step contribution:
 

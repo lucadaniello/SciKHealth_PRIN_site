@@ -63,7 +63,7 @@ University of Naples Federico II
 
 :::: {style="flex: 1; min-width: 250px;"}
 **Carla Guerriero**\
-Associated Professor in Finance\
+Associate Professor in Finance\
 Department of Economics and Statistics\
 University of Naples Federico II
 
@@ -84,7 +84,7 @@ University of Naples Federico II
 
 :::: {style="flex: 1; min-width: 250px;"}
 **Sergio Beraldo**\
-Associated Professor in Economics\
+Associate Professor in Economics\
 Department of Economics and Statistics\
 University of Naples Federico II
 
@@ -105,7 +105,7 @@ University of Naples Federico II
 
 :::: {style="flex: 1; min-width: 250px;"}
 **Carmela Iorio**\
-Associated Professor in Statistics\
+Associate Professor in Statistics\
 Department of Economics and Statistics\
 University of Naples Federico II
 
@@ -114,6 +114,51 @@ University of Naples Federico II
 :::
 ::::
 ::::::
+
+
+:::::: {style="display: flex; align-items: flex-start; gap: 1.5em; flex-wrap: wrap; margin-bottom: 2em;"}
+<!-- Left: Foto del membro -->
+
+::: {style="flex: 0 0 150px;"}
+![](www/giordano.png){width="150px" style="border-radius: 10px;"}
+:::
+
+<!-- Right: Dati + Contatti -->
+
+:::: {style="flex: 1; min-width: 250px;"}
+**Walter Giordano**\
+Researcher in English for Business Communication\
+Department of Economics and Statistics\
+University of Naples Federico II
+
+::: {style="margin-top: 0.8em; font-size: 1.2em;"}
+[![](www/email-icon.png){width="22px" style="margin-right:8px"}](mailto:walter.giordano@unina.it) [![](www/web-icon.png){width="22px" style="margin-right:8px"}](https://www.docenti.unina.it/#!/professor/57414c54455247494f5244414e4f47524457545236395030364638333941/riferimenti) [![](www/linkedin-icon.png){width="22px"}](https://www.linkedin.com/in/walter-giordano-6178a35/?originalSubdomain=it)
+:::
+::::
+::::::
+
+
+:::::: {style="display: flex; align-items: flex-start; gap: 1.5em; flex-wrap: wrap; margin-bottom: 2em;"}
+<!-- Left: Foto del membro -->
+
+::: {style="flex: 0 0 150px;"}
+![](www/scepi.png){width="150px" style="border-radius: 10px;"}
+:::
+
+<!-- Right: Dati + Contatti -->
+
+:::: {style="flex: 1; min-width: 250px;"}
+**Germana Scepi**\
+Associate Professor in Statistics\
+Department of Economics and Statistics\
+University of Naples Federico II
+
+::: {style="margin-top: 0.8em; font-size: 1.2em;"}
+[![](www/email-icon.png){width="22px" style="margin-right:8px"}](mailto:germana.scepi@unina.it) [![](www/web-icon.png){width="22px" style="margin-right:8px"}](https://www.docenti.unina.it/#!/professor/4745524d414e415343455049534350474d4e36364235384638333952/riferimenti) [![](www/linkedin-icon.png){width="22px"}](https://it.linkedin.com/in/germana-scepi-7338775b)
+:::
+::::
+::::::
+
 
 :::::: {style="display: flex; align-items: flex-start; gap: 1.5em; flex-wrap: wrap; margin-bottom: 2em;"}
 <!-- Left: Foto del membro -->
@@ -136,7 +181,29 @@ University of Naples Federico II
 ::::
 ::::::
 
-## Research unit: *UNICA*
+:::::: {style="display: flex; align-items: flex-start; gap: 1.5em; flex-wrap: wrap; margin-bottom: 2em;"}
+<!-- Left: Foto del membro -->
+
+::: {style="flex: 0 0 150px;"}
+![](www/gnasso.png){width="150px" style="border-radius: 10px;"}
+:::
+
+<!-- Right: Dati + Contatti -->
+
+:::: {style="flex: 1; min-width: 250px;"}
+**Agostino Gnasso**\
+PhD Candidate in Economics\
+Department of Economics and Statistics\
+University of Naples Federico II
+
+::: {style="margin-top: 0.8em; font-size: 1.2em;"}
+[![](www/email-icon.png){width="22px" style="margin-right:8px"}](mailto:agostino.gnasso@unina.it) [![](www/web-icon.png){width="22px" style="margin-right:8px"}](https://sites.google.com/view/agostinognasso) [![](www/linkedin-icon.png){width="22px"}](https://www.linkedin.com/in/agostino-gnasso/?originalSubdomain=it)
+:::
+::::
+::::::
+
+
+## Research unit: *UNICAMPANIA*
 
 #### *University of Campania Luigi Vanvitelli*
 
@@ -200,6 +267,31 @@ University of Campania Luigi Vanvitelli\
 
 ::: {style="margin-top: 0.8em; font-size: 1.2em;"}
 [![](www/email-icon.png){width="22px" style="margin-right:8px"}](mailto:ida.camminatiello@unicampania.it) [![](www/web-icon.png){width="22px" style="margin-right:8px"}](https://www.economia.unicampania.it/dipartimento/docenti?MATRICOLA=083077) [![](www/linkedin-icon.png){width="22px"}](https://it.linkedin.com/in/rosaria-lombardo-46671010)
+:::
+::::
+::::::
+
+## Research Fellows and Associates
+
+The following researchers have contributed to the SciK-Health project through research contracts or fellowships funded by the PRIN 2022 programme.
+
+:::::: {style="display: flex; align-items: flex-start; gap: 1.5em; flex-wrap: wrap; margin-bottom: 2em;"}
+<!-- Left: Foto del membro -->
+
+::: {style="flex: 0 0 150px;"}
+![](www/alabiso.jpg){width="150px" style="border-radius: 10px;"}
+:::
+
+<!-- Right: Dati + Contatti -->
+
+:::: {style="flex: 1; min-width: 250px;"}
+**Carlo Alabiso**\
+Research Fellow\
+Department of Economics\
+University of Naples Federico II\
+
+::: {style="margin-top: 0.8em; font-size: 1.2em;"}
+[![](www/email-icon.png){width="22px" style="margin-right:8px"}](mailto:carlo.alabisio@unina.it)  [![](www/linkedin-icon.png){width="22px"}](https://www.linkedin.com/in/carlo-alabiso-bb723025b/)
 :::
 ::::
 ::::::
