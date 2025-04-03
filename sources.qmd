@@ -5,7 +5,7 @@ format: html
 ## Data Sources and Collection Strategy
 
 The SciK-Health project relies on a set of high-quality, openly accessible data sources to map and evaluate the scientific activity and societal impact of Italian AHSCs.\
-To provide a comprehensive, multidimensional view of research productivity, funding, clinical trials, and societal engagement, we selected the following key databases:
+To provide a comprehensive, multidimensional view of research productivity, funding, clinical trials, and social engagement, we selected the following key databases:
 
 -   [OpenAlex](https://openalex.org)
 -   [Dimensions](https://www.dimensions.ai)
@@ -26,7 +26,7 @@ To improve the accuracy and completeness of institutional matching, we relied on
 
 ------------------------------------------------------------------------
 
-### 📄 Scientific Publications
+#### 📄 Scientific Publications
 
 All scientific publications associated with Italian public AHSCs were retrieved from OpenAlex.
 
@@ -40,7 +40,7 @@ This filtering strategy was designed to focus the analysis on high-quality, peer
 
 ------------------------------------------------------------------------
 
-### 🧠 Concepts
+#### 🧠 Concepts
 
 OpenAlex provides a rich classification system for the **scientific content** of each publication through a set of hierarchical entities known as **Concepts**. These are semantically defined research topics assigned automatically to each article based on content analysis and citation patterns.
 
@@ -50,7 +50,7 @@ Each Concept was archived with its unique identifier, name, and relevance score.
 
 ------------------------------------------------------------------------
 
-### 👤 Authorships
+#### 👤 Authorships
 
 For each article, the full authorship information was extracted and archived from OpenAlex.
 
