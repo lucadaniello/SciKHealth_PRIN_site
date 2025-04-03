@@ -15,7 +15,7 @@ Data were retrieved through dedicated APIs and processed using custom routines t
 
 ------------------------------------------------------------------------
 
-## 📚 OpenAlex 
+## 📚 OpenAlex
 
 OpenAlex serves as our primary bibliographic data source. It is an open, freely accessible platform that offers a wide-ranging collection of scientific publications, author metadata, institutional affiliations, and citation relationships.
 
@@ -26,21 +26,24 @@ To improve the accuracy and completeness of institutional matching, we relied on
 
 ------------------------------------------------------------------------
 
-#### 📄 Scientific Publications
+### 📄 Scientific Publications
 
 All scientific publications associated with Italian public AHSCs were retrieved from OpenAlex.
 
 To ensure data consistency and comparability across institutions and time, we applied the following **inclusion and exclusion criteria**:
 
--   **Timeframe**: Only publications from the period 2000–2024 were considered.\
--   **Language**: Only publications written in English were included, to ensure coverage of internationally visible and standardized research output.\
--   **Document Type**: Only journal articles were selected. Other formats—such as book chapters, conference proceedings, and editorials—were excluded due to their lower citation visibility and limited standardization.
+-   **Document Type**: Only articles were selected. Other formats—such as book chapters, conference proceedings, and editorials—were excluded due to their lower citation visibility and limited standardization.
+
+<!-- -->
+
+-   **Timeframe**: Articles published from 2000 to 2024 were considered.\
+-   **Language**: Articles written in English were included, to ensure coverage of internationally visible and standardized research output.
 
 This filtering strategy was designed to focus the analysis on high-quality, peer-reviewed research.
 
 ------------------------------------------------------------------------
 
-#### 🧠 Concepts
+### 🧠 Concepts
 
 OpenAlex provides a rich classification system for the **scientific content** of each publication through a set of hierarchical entities known as **Concepts**. These are semantically defined research topics assigned automatically to each article based on content analysis and citation patterns.
 
@@ -50,13 +53,13 @@ Each Concept was archived with its unique identifier, name, and relevance score.
 
 ------------------------------------------------------------------------
 
-#### 👤 Authorships
+### 👤 Authorships
 
 For each article, the full authorship information was extracted and archived from OpenAlex.
 
-This includes, for every author: - **Full name and position in the author list** - **Corresponding author status** - **OpenAlex unique author ID** - **Affiliation at the time of publication**
+This includes, for every author, several information, such as: - **Full name and position in the author list** - **Corresponding author status** - **OpenAlex unique author ID** - **Affiliation at the time of publication**
 
-The availability of a **persistent author ID** (when present) enabled us to enrich each author record with additional layers of information. Specifically, for each publication, we identified: - whether an author was **internal** to the AHSC under analysis (based on institutional affiliation at the time); - whether the internal author was also listed as **first**, **last**, or **corresponding** author.
+The availability of the **affiliation author ID** (when present) enabled us to enrich each author record with additional layers of information. Specifically, for each publication, we identified: - whether an author was **internal** to the AHSC under analysis (based on institutional affiliation at the time); - whether the internal author was also listed as **first**, **last**, or **corresponding** author.
 
 This information was crucial for measuring the strategic contribution of internal researchers to scientific production, and for evaluating leadership roles in collaborative research.
 
@@ -76,11 +79,7 @@ Dimensions is particularly valuable for filling gaps related to:
 By supplementing missing metadata on these components, Dimensions enables a **holistic assessment** of the role of AHSCs in the scientific ecosystem.
 
 This integration allows us to expand the evaluation beyond scientific publications and citations, capturing a broader spectrum of institutional impact—including **funding success**, **technological innovation**, and **translational research potential**.\
-In this way, we highlight not only the academic contributions of AHSCs, but also their operational relevance within the healthcare system. 
-Only datasets, grants, patents, and clinical trials were extracted.
-Publications were excluded because they were more comprehensively covered by OpenAlex,
-while policy documents were omitted because of their limited availability for
-the AHSCs analyzed.
+In this way, we highlight not only the academic contributions of AHSCs, but also their operational relevance within the healthcare system. Only datasets, grants, patents, and clinical trials were extracted. Publications were excluded because they were more comprehensively covered by OpenAlex, while policy documents were omitted because of their limited availability for the AHSCs analyzed.
 
 ------------------------------------------------------------------------
 
@@ -90,14 +89,12 @@ To capture the **social and digital impact** of scientific research, the SciK-He
 
 Altmetric monitors mentions of scientific outputs across a wide array of sources, including:
 
-- **Social media platforms** (e.g., Twitter/X, Facebook)
-- **News outlets**
-- **Blogs**
-- **Policy documents**
-- **Wikipedia**
+-   **Social media platforms** (e.g., Twitter/X, Facebook)
+-   **News outlets**
+-   **Blogs**
+-   **Policy documents**
+-   **Wikipedia**
 
 Using the DOIs of AHSC-affiliated publications retrieved from OpenAlex, we accessed Altmetric’s API to collect both **altmetric scores** and detailed **engagement data**. This allowed us to quantify public and institutional attention received by each research output beyond academic citations.
 
 The inclusion of Altmetric data enables an **alternative perspective** on research impact—highlighting visibility, outreach, and public engagement—as a complement to traditional bibliometric indicators.
-
-
